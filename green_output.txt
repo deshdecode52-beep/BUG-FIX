@@ -1,0 +1,7 @@
+Command: python test_student_utils.py (run inside green_stage)
+
+.........
+----------------------------------------------------------------------
+Ran 9 tests in 0.000s
+
+OK
